@@ -23,10 +23,6 @@ The "Contact" section features a contact form where visitors can reach out to me
 
 <h3>Conclusion</h3>
 Overall, this HTML code forms the foundation of my portfolio website, providing visitors with an overview of my skills, experience, and projects. It serves as a platform for showcasing my work and connecting with potential collaborators or clients.
-<style>
-  h3{
-    text-decorator: underline;
-  }
-</style>
+
 </head>
 
